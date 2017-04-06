@@ -1,0 +1,16 @@
+Installation Guide:
+
+Extract the contents of CultureHack.zip to your chosen file destination.
+(Right click on the folder and select unzip. When prompted, enter you target directory)
+If you want to put the game on the start menu, right-click on CultureHack.exe, and select 'pin to start'
+
+To play the game, double-click on CultureHack.exe. 
+If you cannot find the file location, open the start menu, and in the 'search' field, enter 'CultureHack'. If you cannot find it, reinstall.
+
+Requirements: Windows XP or higher - any computer capable of running windows will run the program.
+
+Backing Up: to back up, copy the contents of CultureHack to your backup directory. (Ctrl+c to copy, Ctrl+v to paste)
+
+For instructions on playing, open readme.txt 
+
+Enjoy!
